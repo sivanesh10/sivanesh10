@@ -13,8 +13,8 @@
 ![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sivanesh10&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesh10&layout=compact)  
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sivanesh10)
