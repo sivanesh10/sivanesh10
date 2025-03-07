@@ -4,7 +4,8 @@
 - 🎓 College Student | Passionate Software Developer  
 - 💡 Learning: AI, Web Dev, Stock Market, DSA    
 - 💬 Ask me about **C++, React, DSA, System Design**  
-
+- 💻 Passionate about Problem Solving, Web Development & Open Source!
+  
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
