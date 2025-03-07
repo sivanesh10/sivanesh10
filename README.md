@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💻 Hey there! I'm [Your Name] 👋  
 
-<!--
-**sivanesh10/sivanesh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 College Student | Passionate Software Developer  
+- 💡 Learning: AI, Web Dev, Stock Market, DSA    
+- 💬 Ask me about **C++, React, DSA, System Design**  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)  
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sivanesh10)
