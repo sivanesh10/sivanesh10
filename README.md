@@ -18,14 +18,14 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdfaisal001&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sivanesh10&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=mdfaisal001&theme=tokyonight" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdfaisal001&theme=onedark&no-frame=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sivanesh10&theme=onedark&no-frame=true&margin-w=15&column=7" />
 </p>
 
 ### 🚀 Languages & Tools
