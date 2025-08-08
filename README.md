@@ -34,20 +34,8 @@
 </p>
 
 
-### 📍 Location & GitHub Summary
-
-- 🗺️ **Location**: Trichy, Tamil Nadu  
-- 🧑‍💻 **Name**: Sivanesh Ravichelvam  
-- 🗓️ **Joined GitHub**: {{ JOINED_DATE }}  
-- 🔢 **Total Contributions**: {{ TOTAL_CONTRIBUTIONS }}  
-- 📌 **Public Repos**: {{ PUBLIC_REPOS }}  
-- 🔁 **Current Streak**: {{ CURRENT_STREAK }}  
-- 🥇 **Longest Streak**: {{ LONGEST_STREAK }}
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaneshravi&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesh10&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 
