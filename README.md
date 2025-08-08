@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Welcome Banner" />
+</p>
+
+
+
 # 💻 Hey there! I'm Sivanesh Ravichelvam 👋  
 
 ## 🚀 About Me
