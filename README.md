@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🎓 College Student | Passionate Software Developer  
-- 💡 Learning: AI, Web Dev, Stock Market, DSA    
-- 💬 Ask me about **C++, React, DSA, System Design**  
+- 💡 Learning:  Web Dev, DSA    
+- 💬 Ask me about **C++, React, DSA, LLD**  
 - 💻 Passionate about Problem Solving, Web Development & Open Source!  
 
 📅 Last Updated: **_2025-01-01_**  
@@ -17,8 +17,52 @@
 ![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sivanesh10&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesh10&layout=compact)  
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdfaisal001&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mdfaisal001&theme=tokyonight" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdfaisal001&theme=onedark&no-frame=true&margin-w=15&column=7" />
+</p>
+
+### 🚀 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,python,java,react,nodejs,github,vscode" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivanesh10&theme=&theme=dracula&hide_border=true" />
+</p>
+
+
+### 📍 Location & GitHub Summary
+
+- 🗺️ **Location**: Trichy, Tamil Nadu  
+- 🧑‍💻 **Name**: Sivanesh Ravichelvam  
+- 🗓️ **Joined GitHub**: {{ JOINED_DATE }}  
+- 🔢 **Total Contributions**: {{ TOTAL_CONTRIBUTIONS }}  
+- 📌 **Public Repos**: {{ PUBLIC_REPOS }}  
+- 🔁 **Current Streak**: {{ CURRENT_STREAK }}  
+- 🥇 **Longest Streak**: {{ LONGEST_STREAK }}
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaneshravi&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Consistency over intensity. Code every day.”</b>
+</p>
+
 
 ## ☕ Support Me  
 If you like my work, you can support me here:  
