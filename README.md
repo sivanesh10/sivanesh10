@@ -4,10 +4,7 @@
 - 🎓 College Student | Passionate Software Developer  
 - 💡 Learning:  Web Dev, DSA    
 - 💬 Ask me about **C++, React, DSA, LLD**  
-- 💻 Passionate about Problem Solving, Web Development & Open Source!  
-
-📅 Last Updated: **_2025-01-01_**  
-📂 Public Repositories: **_0_**  
+- 💻 Passionate about Problem Solving, Web Development & Open Source!    
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -42,7 +39,11 @@
 
 ## ☕ Support Me  
 If you like my work, you can support me here:  
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FECC00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/sivanesh_ravichelvam)  
 
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivanesh10/)  
+## 🔗 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivanesh10/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sivaneshravichelvam@gmail.com)
+
